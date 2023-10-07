@@ -19,7 +19,7 @@ The project provides valuable insights into the functioning and utilization of u
 3. **new_york_city.csv**:  Similar to the Washington file, this CSV file contains raw data for bike-sharing usage in New York City. It is another key dataset subjected to analysis in this project.
 4. **chicago.csv**: This file holds the raw bike-sharing data for Chicago, completing the trio of cities under study. It too is analyzed by the bikeshare.py tool.
 
-> **Note**: The CSV files—chicago.csv, new_york_city.csv, and washington.csv—are not uploaded to the remote repository due to their large size, and they are listed in the .gitignore file.
+> **Note**: The CSV files — `chicago.csv`, `new_york_city.csv`, and w`ashington.csv` — are not uploaded to the remote repository due to their large size, and they are listed in the .gitignore file.
 
 ### Credits
 
